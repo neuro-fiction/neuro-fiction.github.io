@@ -17,3 +17,8 @@
 #1: Learning to be me X 自我意识
 
 [Discord](https://discord.gg/VfamD2Xh)
+
+
+<script>var clicky_site_ids = clicky_site_ids || []; clicky_site_ids.push(101307141);</script>
+<script async src="//static.getclicky.com/js"></script>
+
