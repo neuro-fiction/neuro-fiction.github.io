@@ -2,6 +2,8 @@
 
 聊聊有趣的科幻故事和神经科学
 
+[](Images/CH_head.jpeg)
+
 [Clubhouse](https://www.joinclubhouse.com/club/%E7%A7%91%E5%B9%BB-x-%E7%A5%9E%E7%BB%8F%E7%A7%91%E5%AD%A6)
 
 -本期主题-
