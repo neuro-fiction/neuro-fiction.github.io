@@ -14,7 +14,7 @@
 
 #2: 醉步男 X 时间感知 X 日本科幻
 
-#1: [Learning to be me X 自我意识](1.html)
+#1: [Learning to be me X 自我意识](1.md)
 
 [Discord](https://discord.gg/2hq5yNGaux)
 
