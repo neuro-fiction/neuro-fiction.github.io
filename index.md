@@ -1,16 +1,12 @@
-科幻 X 神经科学
-
-聊聊有趣的科幻故事和神经科学
-
-[](Images/CH_head.jpeg)
+[![CH_head](https://user-images.githubusercontent.com/4406775/111887873-54813200-89ae-11eb-927f-67f9d4a54303.jpeg)
 
 [Clubhouse](https://www.joinclubhouse.com/club/%E7%A7%91%E5%B9%BB-x-%E7%A5%9E%E7%BB%8F%E7%A7%91%E5%AD%A6)
 
--本期主题-
+<h1>本期主题</h1>
 
 #5: [自由意志 X Ted Chiang x 焦虑是自由的眩晕](5.md)
 
--历史主题-
+<h1>历史主题</h1>
 
 #4: [攻壳机动队 X 脑机接口 X 赛博朋克](4.md)
 
