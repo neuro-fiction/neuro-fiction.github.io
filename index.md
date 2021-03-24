@@ -4,6 +4,8 @@
 
 [微信群](/Images/wechat.PNG)
 
+[联系我们📧](http://mailto:neurofiction@protonmail.com)
+
 <h1>本期主题</h1>
 
 #5: [焦虑是自由的眩晕 X Ted Chiang X 自由意志](5.md)
