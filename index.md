@@ -4,7 +4,7 @@
 
 [微信群](/Images/wechat.PNG)
 
-[联系我们📧](http://mailto:neurofiction@protonmail.com)
+[联系我们📧](mailto:neurofiction@protonmail.com)
 
 <h1>本期主题</h1>
 
