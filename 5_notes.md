@@ -40,30 +40,6 @@
 
 > the researchers would continue to monitor the news over the following weeks and months to see how the divergences grew over time. They looked for a classic “for want of a nail, a kingdom was lost” scenario, where the ripples expanded steadily but in an intelligible manner. Instead what they found were other small discrepancies, unrelated to the one they’d originally discovered; the weather was instigating changes everywhere, all the time. By the time a significant political divergence was observed, it was difficult to ascertain what the cause had been.
 
-<h2>边角</h2>
-
-这个有点奇怪：地震总是会在同一时刻发生。
-
-> a hurricane in one said nothing about the likelihood of a hurricane in another, while earthquakes happened simultaneously in every branch, so no early warning was possible.
-
-平行世界的新闻、体育赛事、gossip、小说、音乐、电影
-
-棱镜大众化后，个人和自己的合作。
-
-身份危机，有些人购买大量棱镜来试图让各个世界的自己保持同步 - a fool's errand.
-
-有人觉得无穷多的平行自我让自我失去了独特价值，选择也无关紧要。
-
-但是专家的意见是所有的决定过程都是经典的：只有随机事件才会分离出平行宇宙，做决定的过程并不会。
-
->“Many worried that their choices were rendered meaningless because every action they took was counterbalanced by a branch in which they had made the opposite choice. Experts tried to explain that human decision-making was a classical rather than quantum phenomenon, so the act of making a choice didn’t by itself cause new branches to split; it was quantum phenomena that generated new branches, and your choices in those branches were as meaningful as they ever were. ”
-
-棱镜似乎确实造成了犯罪的增加：
-
->“there was a shift in behavior that, while falling short of a mass outbreak of criminality, was readily discernible by social scientists. Edgar Allan Poe had used the phrase “the imp of the perverse” to describe the temptation to do the wrong thing simply because you could, and for many people the imp had become more persuasive.”
-
-
-
 # Data brokers: 各种通过棱镜开展服务的公司
 
 <h2>公司：SelfTalk</h2>
@@ -123,8 +99,6 @@ Dana2 说实话，两个人都被停学，Vinessa 抱怨 Dana 应该说谎。随
 > “In one, Dana felt guilty about introducing Vinessa to a boy who got her addicted to drugs. In another, it was a successful shoplifting incident that emboldened Vinessa to attempt more dramatic thefts. All these Vinessas getting stuck in patterns of self-destructive behavior. All these Danas blaming themselves for it, no matter what actions they took.
 > If the same thing happens in branches where you acted differently, then you aren’t the cause.”
 
-
-
 ## 人物： Vinessa (Dana's high school best friend)
 
 性格：自我为中心，蔑视规则
@@ -139,11 +113,33 @@ Dana2 说实话，两个人都被停学，Vinessa 抱怨 Dana 应该说谎。随
 
 
 
+<h2>人物：Jorge (Dana's client)</h2>
+
+性格：有趣、善良、总是有良好的意图；
+
+心理障碍：自我感觉差，负面情绪阻碍。
+
+> Jorge was funny and kind, and always well-intentioned; he was tentative about the therapeutic process, but they’d been making steady progress on his poor self-image and the negative attitudes that were holding him back.
+
+四周前 Jorge 的老板对员工出口不逊，Jorge怒而划破了老板车的四个轮胎。没有被人发现。
+
+通过 Lydoscope 发现6个近期diverge的平行世界中的自己都没有划（一个月前的棱镜）。Jorge 的解读是这说明自己本质上还是个好人，只是偶然犯错（“got the results of a medical test back, and I'm in the clear”），不必告诉老婆。
+
+过了一段时间Jorge又想去Lydoscope检查自己有没有暴力行为。原因是他最近又有感到想要砸东西的冲动。
+
+经过Dana的劝导，他认识到面对自己才是好的解决方式：如果不承认自己曾经有过暴力行动，就没办法避免未来再犯。
+
+同时，不告诉老婆Sharon，就不算真正面对自己的过错。所以Jorge决定告诉Sharon。
+
+
+
 <h2>人物：Teresa</h2>
 
 情感障碍：无法形成长期关系
 
 总是在寻求更好的选择。拒绝了前男友求婚。当听说前男友现在处于幸福的婚姻中时，又想知道如果当初接受求婚会怎样。向Crystall Ball公司询问是否有平行世界自己和前男友结婚了。她希望能找到和前男友结婚的自己，并且知道她并不幸福——以此来支持自己拒绝前男友的决定。
+
+
 
 <h2>人物：Lyle</h2>
 
@@ -154,6 +150,8 @@ Dana2 说实话，两个人都被停学，Vinessa 抱怨 Dana 应该说谎。随
 十个月前，用棱镜选择是否接受新工作。本分支是接受了新工作，一开始两个自我都满意。但是最近他对新工作的新鲜劲过了，加上平行自我paraself获得了提拔，Lyle开始觉得自己的处境不如平行自我，感到嫉妒和妒忌。
 
 Lyle的平行自我和Becca约会，他联络了本世界的Becca。尽管约会开始还算顺利，Lyle告诉Becca自己对平行Lyle的嫉妒，把Becca吓跑了。
+
+
 
 <h2>人物：Nat (主角)</h2>
 
@@ -215,24 +213,6 @@ Dana 的“选择决定未来人格说” 是 Nat 所寻找的——她希望能
 
 
 
-<h2>人物：Jorge (Dana's client)</h2>
-
-性格：有趣、善良、总是有良好的意图；
-
-心理障碍：自我感觉差，负面情绪阻碍。
-
-> Jorge was funny and kind, and always well-intentioned; he was tentative about the therapeutic process, but they’d been making steady progress on his poor self-image and the negative attitudes that were holding him back.
-
-四周前 Jorge 的老板对员工出口不逊，Jorge怒而划破了老板车的四个轮胎。没有被人发现。
-
-通过 Lydoscope 发现6个近期diverge的平行世界中的自己都没有划（一个月前的棱镜）。Jorge 的解读是这说明自己本质上还是个好人，只是偶然犯错（“got the results of a medical test back, and I'm in the clear”），不必告诉老婆。
-
-过了一段时间Jorge又想去Lydoscope检查自己有没有暴力行为。原因是他最近又有感到想要砸东西的冲动。
-
-经过Dana的劝导，他认识到面对自己才是好的解决方式：如果不承认自己曾经有过暴力行动，就没办法避免未来再犯。
-
-同时，不告诉老婆Sharon，就不算真正面对自己的过错。所以Jorge决定告诉Sharon。
-
 <h2>人物：Morrow (Hustler, SelfTalk的分店经理)</h2>
 
 性格：投机分子，总是在想损招搞钱。 过于冒险
@@ -248,6 +228,8 @@ Glenn用枪指着Morrow要求转账，Morrow居然拒绝了，理由是他赌Gle
 > “Yeah, but I don’t think this is the one.”
 
 果然Morrow被Glenn爆头。
+
+
 
 <h2>人物：Scott Otsuka (流行歌手)</h2>
 
@@ -279,6 +261,8 @@ Morrow偶然偷听到Lyle有一个Scott被撞死，老公Roderick还活着的棱
 
 仍然有负罪感是因为多年前，姐妹获得了一次[Julliard](https://en.wikipedia.org/wiki/Juilliard_School)的面试机会，由于嫉妒在她水里下药（咖啡因），结果没有获得录取。
 
+
+
 ## 人物：Glenn Oehlsen
 
 Mrs Oehlsen的儿子，来讨母亲被骗的$20000.
@@ -296,6 +280,30 @@ Mrs Oehlsen的儿子，来讨母亲被骗的$20000.
 Zareenah：棱镜普及后，激情犯罪率有小幅度但显著的上升。
 
 ## 人物：Ornella (Scott's assistant)
+
+
+
+<h2>边角</h2>
+
+这个有点奇怪：地震总是会在同一时刻发生。
+
+> a hurricane in one said nothing about the likelihood of a hurricane in another, while earthquakes happened simultaneously in every branch, so no early warning was possible.
+
+平行世界的新闻、体育赛事、gossip、小说、音乐、电影
+
+棱镜大众化后，个人和自己的合作。
+
+身份危机，有些人购买大量棱镜来试图让各个世界的自己保持同步 - a fool's errand.
+
+有人觉得无穷多的平行自我让自我失去了独特价值，选择也无关紧要。
+
+但是专家的意见是所有的决定过程都是经典的：只有随机事件才会分离出平行宇宙，做决定的过程并不会。
+
+>“Many worried that their choices were rendered meaningless because every action they took was counterbalanced by a branch in which they had made the opposite choice. Experts tried to explain that human decision-making was a classical rather than quantum phenomenon, so the act of making a choice didn’t by itself cause new branches to split; it was quantum phenomena that generated new branches, and your choices in those branches were as meaningful as they ever were. ”
+
+棱镜似乎确实造成了犯罪的增加：
+
+>“there was a shift in behavior that, while falling short of a mass outbreak of criminality, was readily discernible by social scientists. Edgar Allan Poe had used the phrase “the imp of the perverse” to describe the temptation to do the wrong thing simply because you could, and for many people the imp had become more persuasive.”
 
 
 
