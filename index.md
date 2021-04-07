@@ -1,6 +1,6 @@
 [聊斋群组](https://www.joinclubhouse.com/club/%E7%A7%91%E5%B9%BB-x-%E7%A5%9E%E7%BB%8F%E7%A7%91%E5%AD%A6)
 
-[Discord频道](https://discord.gg/2hq5yNGaux)
+[Discord频道(微信群已满，建议加discord)](https://discord.gg/2hq5yNGaux)
 
 [联系我们📧](mailto:neurofiction@protonmail.com)
 
