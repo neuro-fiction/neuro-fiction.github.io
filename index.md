@@ -1,4 +1,4 @@
-[聊斋群组](https://www.joinclubhouse.com/club/%E7%A7%91%E5%B9%BB-x-%E7%A5%9E%E7%BB%8F%E7%A7%91%E5%AD%A6)
+[加入聊斋群组](https://www.joinclubhouse.com/join/%E7%A7%91%E5%B9%BB-x-%E7%A5%9E%E7%BB%8F%E7%A7%91%E5%AD%A6/tWrpmlAV/ma4Z6dL5)
 
 [Discord频道(微信群已满，建议加discord)](https://discord.gg/2hq5yNGaux)
 
@@ -6,7 +6,7 @@
 
 <h1>本期主题</h1>
 
-TBD
+想象中的外星人 👽 科幻 X 博物馆之旅
 
 <h1>历史主题</h1>
 
