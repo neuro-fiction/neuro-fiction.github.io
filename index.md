@@ -12,6 +12,8 @@
 
 #7: [❤️ X ☠️ X 🤖️](7.md)
 
+<iframe src="https://anchor.fm/-x-/embed/episodes/vol02-evsab6/a-a5d9dfu" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
 #6: [哥斯拉大战金刚 X 怪兽电影的世界观和人性](6.md)
 
 #5: [焦虑是自由的眩晕 X Ted Chiang X 自由意志](5.md)
