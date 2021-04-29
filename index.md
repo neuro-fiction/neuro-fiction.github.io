@@ -1,6 +1,6 @@
 [加入聊斋群组](https://www.joinclubhouse.com/join/%E7%A7%91%E5%B9%BB-x-%E7%A5%9E%E7%BB%8F%E7%A7%91%E5%AD%A6/tWrpmlAV/ma4Z6dL5)
 
-[Discord频道(微信群已满，建议加discord)](https://discord.gg/2hq5yNGaux)
+[Discord频道](https://discord.gg/2hq5yNGaux)
 
 [联系我们📧](mailto:neurofiction@protonmail.com)
 
@@ -17,6 +17,8 @@
 #6: [哥斯拉大战金刚 X 怪兽电影的世界观和人性](6.md)
 
 #5: [焦虑是自由的眩晕 X Ted Chiang X 自由意志](5.md)
+
+<iframe src="https://anchor.fm/-x-/embed/episodes/vol01--X-evs52d/a-a5d81p8" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 #4: [攻壳机动队 X 脑机接口 X 赛博朋克](4.md)
 
